@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 1.5rem;
+}
+
+.container h1,
+.container h2 {
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 4rem;
+    color: blue
+}
+
+.buttonWrapper{
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonWrapper button{
+    min-width: 120px;
+    height: 30px;
+
+}
+
+
+
